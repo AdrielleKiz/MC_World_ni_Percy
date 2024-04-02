@@ -2,9 +2,7 @@
 	id: "2675103e-8ecc-3e7e-bd4d-a884dde729b0"
 	type: "player"
 	player_name: "Sanka0612"
-	ranks: {
-		2675103e-8ecc-3e7e-bd4d-a884dde729b0: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Sanka0612"
 		"ftbteams:description": ""

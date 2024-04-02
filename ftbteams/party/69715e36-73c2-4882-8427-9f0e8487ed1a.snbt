@@ -1,0 +1,25 @@
+{
+	id: "69715e36-73c2-4882-8427-9f0e8487ed1a"
+	type: "party"
+	owner: "2675103e-8ecc-3e7e-bd4d-a884dde729b0"
+	ranks: {
+		2675103e-8ecc-3e7e-bd4d-a884dde729b0: "owner"
+		3c586428-921a-37f6-b70e-d5556bf0c19f: "member"
+		d0b13dc4-42fc-334b-8335-f49716fe6a12: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Sanka0612's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5982FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712047993667L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sanka0612\"}]}" }
+		{ from: "2675103e-8ecc-3e7e-bd4d-a884dde729b0", date: 1712047993688L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"karuts\"}]}" }
+		{ from: "2675103e-8ecc-3e7e-bd4d-a884dde729b0", date: 1712047993688L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"fuego\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712048000784L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"karuts\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712048004623L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"fuego\"}]}" }
+	]
+	extra: { }
+}

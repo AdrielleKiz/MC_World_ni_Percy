@@ -2,9 +2,7 @@
 	id: "d0b13dc4-42fc-334b-8335-f49716fe6a12"
 	type: "player"
 	player_name: "karuts"
-	ranks: {
-		d0b13dc4-42fc-334b-8335-f49716fe6a12: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "karuts"
 		"ftbteams:description": ""

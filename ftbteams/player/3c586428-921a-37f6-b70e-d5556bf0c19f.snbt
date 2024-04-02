@@ -2,9 +2,7 @@
 	id: "3c586428-921a-37f6-b70e-d5556bf0c19f"
 	type: "player"
 	player_name: "fuego"
-	ranks: {
-		3c586428-921a-37f6-b70e-d5556bf0c19f: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "fuego"
 		"ftbteams:description": ""

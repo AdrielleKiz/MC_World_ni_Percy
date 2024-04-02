@@ -1,0 +1,17 @@
+{
+	id: "028b208a-dce2-3efa-8ce9-d61c97dcce31"
+	type: "player"
+	player_name: "ZAckyBonky"
+	ranks: {
+		028b208a-dce2-3efa-8ce9-d61c97dcce31: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ZAckyBonky"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
