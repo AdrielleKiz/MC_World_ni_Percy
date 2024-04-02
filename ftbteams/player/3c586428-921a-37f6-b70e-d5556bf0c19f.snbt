@@ -1,0 +1,17 @@
+{
+	id: "3c586428-921a-37f6-b70e-d5556bf0c19f"
+	type: "player"
+	player_name: "fuego"
+	ranks: {
+		3c586428-921a-37f6-b70e-d5556bf0c19f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "fuego"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBB59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

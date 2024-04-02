@@ -1,0 +1,17 @@
+{
+	id: "d3d08ffe-2c98-37dc-8e6a-8da98333ec5e"
+	type: "player"
+	player_name: "SuzuAiko"
+	ranks: {
+		d3d08ffe-2c98-37dc-8e6a-8da98333ec5e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SuzuAiko"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

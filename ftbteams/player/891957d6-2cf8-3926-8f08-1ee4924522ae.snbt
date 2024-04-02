@@ -1,0 +1,17 @@
+{
+	id: "891957d6-2cf8-3926-8f08-1ee4924522ae"
+	type: "player"
+	player_name: "seviru"
+	ranks: {
+		891957d6-2cf8-3926-8f08-1ee4924522ae: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "seviru"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

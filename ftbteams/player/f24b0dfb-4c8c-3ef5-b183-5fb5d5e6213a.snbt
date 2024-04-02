@@ -1,0 +1,17 @@
+{
+	id: "f24b0dfb-4c8c-3ef5-b183-5fb5d5e6213a"
+	type: "player"
+	player_name: "dayan_cruz"
+	ranks: {
+		f24b0dfb-4c8c-3ef5-b183-5fb5d5e6213a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dayan_cruz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

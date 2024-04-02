@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8ab3872f2f933af7ab5a2dfa3be8b321"
+	name: "sammysideup"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
