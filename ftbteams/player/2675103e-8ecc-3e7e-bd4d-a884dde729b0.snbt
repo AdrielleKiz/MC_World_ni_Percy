@@ -2,11 +2,13 @@
 	id: "2675103e-8ecc-3e7e-bd4d-a884dde729b0"
 	type: "player"
 	player_name: "Sanka0612"
-	ranks: { }
+	ranks: {
+		2675103e-8ecc-3e7e-bd4d-a884dde729b0: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "Sanka0612"
 		"ftbteams:description": ""
-		"ftbteams:color": "#5982FF"
+		"ftbteams:color": "#FF7C59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

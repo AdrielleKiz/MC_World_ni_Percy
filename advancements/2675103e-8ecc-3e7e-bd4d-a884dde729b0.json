@@ -638,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-04-01 05:15:06 +0000"
@@ -950,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-01 04:02:32 +0000"
@@ -1106,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-04-01 04:07:55 +0000"
@@ -1241,6 +1259,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -1749,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-02 02:48:11 +0000"
@@ -1776,6 +1806,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -2180,6 +2216,18 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-04-01 13:33:55 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2024-04-03 11:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -2853,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-01 06:27:16 +0000"
@@ -3450,6 +3504,12 @@
   "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-04-01 14:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -4114,6 +4174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-04-01 03:43:54 +0000"
@@ -4135,6 +4201,12 @@
   "upgradednetherite:recipes/essences/feather_essence": {
     "criteria": {
       "has_feather": "2024-04-01 03:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -4235,6 +4307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2024-04-01 15:08:09 +0000"
@@ -4292,6 +4370,12 @@
   "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-04-01 14:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -4565,6 +4649,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-04-03 11:11:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_table": "2024-04-02 07:59:45 +0000"
@@ -4713,6 +4803,12 @@
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2024-04-01 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -5130,6 +5226,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-01 06:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -6527,6 +6629,12 @@
     },
     "done": true
   },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-04-01 03:45:12 +0000"
@@ -6537,6 +6645,7 @@
     "criteria": {
       "neapolitan:strawberry_scones": "2024-04-02 09:42:54 +0000",
       "abnormals_delight:tomato": "2024-04-02 08:08:29 +0000",
+      "neapolitan:strawberries": "2024-04-03 11:15:33 +0000",
       "cooked_porkchop": "2024-04-01 04:30:36 +0000",
       "cooked_beef": "2024-04-01 07:25:20 +0000",
       "cooked_chicken": "2024-04-01 04:52:18 +0000",
@@ -7105,6 +7214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/smooth_lumiere_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2024-04-01 15:37:38 +0000"
@@ -7126,6 +7241,12 @@
   "galosphere:recipes/galosphere/smooth_allurite": {
     "criteria": {
       "has_allurite_block": "2024-04-01 04:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -7367,6 +7488,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-04-01 07:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },
@@ -7799,6 +7926,12 @@
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2024-04-01 04:18:51 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2024-04-03 11:23:48 +0000"
     },
     "done": true
   },

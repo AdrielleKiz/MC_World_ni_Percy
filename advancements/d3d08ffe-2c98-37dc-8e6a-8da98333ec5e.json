@@ -2088,6 +2088,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-04-03 11:12:14 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2024-04-01 03:51:14 +0000"
@@ -4490,6 +4496,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-04-03 11:48:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-04-01 04:09:30 +0000"
@@ -6316,6 +6328,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-01 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-04-03 11:27:36 +0000"
     },
     "done": true
   },
