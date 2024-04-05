@@ -1368,6 +1368,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2024-04-05 11:42:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-04-01 04:17:05 +0000"
@@ -3557,6 +3563,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2024-04-05 11:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-04-01 04:49:59 +0000"
@@ -3869,6 +3881,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-04-05 11:42:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-04-01 04:27:56 +0000"
@@ -4070,6 +4088,12 @@
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-04-01 03:51:45 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/coconut_curry": {
+    "criteria": {
+      "has_coconut": "2024-04-05 11:42:41 +0000"
     },
     "done": true
   },
@@ -5877,6 +5901,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-04-01 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2024-04-05 11:41:28 +0000"
     },
     "done": true
   },
@@ -7794,6 +7824,7 @@
       "byg:black_forest": "2024-04-01 12:28:36 +0000",
       "byg:orchard": "2024-04-01 11:38:40 +0000",
       "byg:red_oak_forest": "2024-04-01 12:29:52 +0000",
+      "byg:autumnal_forest": "2024-04-05 11:40:47 +0000",
       "byg:warped_desert": "2024-04-04 06:28:26 +0000",
       "byg:weeping_witch_forest": "2024-04-02 05:56:06 +0000",
       "byg:magma_wastes": "2024-04-01 09:22:03 +0000",
@@ -8419,6 +8450,12 @@
   "byg:recipes/byg.byg/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-01 12:04:02 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2024-04-05 11:42:46 +0000"
     },
     "done": true
   },
@@ -9285,6 +9322,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-04-01 04:49:37 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-04-05 11:41:17 +0000",
       "minecraft:taiga": "2024-04-01 07:35:45 +0000",
       "minecraft:deep_ocean": "2024-04-02 05:47:15 +0000",
       "minecraft:sunflower_plains": "2024-04-01 11:40:47 +0000",
