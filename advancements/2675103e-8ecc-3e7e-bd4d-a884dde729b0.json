@@ -685,6 +685,7 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
+      "in_village_ocean": "2024-04-05 04:48:21 +0000",
       "in_village_oak": "2024-04-04 10:45:21 +0000"
     },
     "done": false
@@ -2109,6 +2110,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-04-05 04:45:57 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/spruce_bark": {
     "criteria": {
       "has_copper_block": "2024-04-01 05:13:36 +0000"
@@ -2442,6 +2449,12 @@
   "incubation:recipes/food/scrambled_eggs": {
     "criteria": {
       "has_eggs": "2024-04-01 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/matcha_ice_cream": {
+    "criteria": {
+      "has_ice_cubes": "2024-04-05 04:55:54 +0000"
     },
     "done": true
   },
@@ -3181,6 +3194,12 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_bench": "2024-04-02 07:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-05 04:46:37 +0000"
     },
     "done": true
   },
@@ -4620,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-04-05 04:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-04-02 08:56:45 +0000"
@@ -5215,6 +5240,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-04-03 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-05 04:46:37 +0000"
     },
     "done": true
   },
@@ -5878,6 +5909,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-04-05 04:46:33 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/popped_chorus_fruit_from_baking": {
     "criteria": {
       "has_chorus_fruit": "2024-04-03 08:12:52 +0000"
@@ -6103,6 +6140,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-02 07:01:55 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/salmonberry_ice_cream": {
+    "criteria": {
+      "has_ice_cubes": "2024-04-05 04:55:54 +0000"
     },
     "done": true
   },
@@ -6658,6 +6701,12 @@
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_side_table": "2024-04-02 03:02:59 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-05 04:46:37 +0000"
     },
     "done": true
   },
@@ -7763,6 +7812,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-05 04:46:37 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
@@ -8443,6 +8498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-04-05 04:44:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-04-01 04:22:44 +0000"
@@ -8754,6 +8815,12 @@
   "galosphere:recipes/galosphere/silver_bomb": {
     "criteria": {
       "has_gunpowder": "2024-04-01 04:18:51 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/water_essence": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-04-05 04:44:04 +0000"
     },
     "done": true
   },
@@ -9311,6 +9378,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-04-01 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-04-05 04:48:29 +0000"
     },
     "done": true
   },
