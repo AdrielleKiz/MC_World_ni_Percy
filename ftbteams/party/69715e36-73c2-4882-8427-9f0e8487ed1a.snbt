@@ -8,10 +8,10 @@
 		d0b13dc4-42fc-334b-8335-f49716fe6a12: "member"
 	}
 	properties: {
-		"ftbteams:display_name": "Sanka0612's Party"
+		"ftbteams:display_name": "Malake"
 		"ftbteams:description": ""
-		"ftbteams:color": "#5982FF"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#598CFF"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 	}
 	message_history: [

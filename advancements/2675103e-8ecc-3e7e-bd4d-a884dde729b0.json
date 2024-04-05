@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/chestnut_wood": {
+    "criteria": {
+      "has_log": "2024-04-05 03:56:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2024-04-02 08:38:00 +0000"
@@ -626,6 +632,12 @@
   "stoneworks:recipes/stoneworks.main/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-04 03:41:09 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/chestnut_crate": {
+    "criteria": {
+      "has_chestnuts": "2024-04-05 03:56:38 +0000"
     },
     "done": true
   },
@@ -1281,6 +1293,12 @@
   "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-04-05 01:58:17 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/leather_from_frozen_flesh": {
+    "criteria": {
+      "has_frozen_flesh": "2024-04-05 03:50:41 +0000"
     },
     "done": true
   },
@@ -2085,6 +2103,12 @@
     },
     "done": true
   },
+  "windswept:recipes/food/roasted_chestnuts_from_campfire_cooking": {
+    "criteria": {
+      "has_chestnuts": "2024-04-05 03:56:38 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/spruce_bark": {
     "criteria": {
       "has_copper_block": "2024-04-01 05:13:36 +0000"
@@ -2174,6 +2198,12 @@
       "has_andesite": "2024-04-01 04:06:24 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2024-04-05 03:43:56 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/twilightforest/wood/canopy_planks": {
     "criteria": {
@@ -2268,6 +2298,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-04-01 04:06:25 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bomb": {
+    "criteria": {
+      "has_blue_ice": "2024-04-05 03:47:36 +0000"
     },
     "done": true
   },
@@ -3159,6 +3195,7 @@
       "minecraft:pillager": "2024-04-02 04:02:43 +0000",
       "minecraft:skeleton": "2024-04-01 04:21:58 +0000",
       "savage_and_ravage:creepie": "2024-04-02 10:12:17 +0000",
+      "windswept:chilled": "2024-04-05 03:50:33 +0000",
       "minecraft:vindicator": "2024-04-02 10:04:09 +0000",
       "minecraft:spider": "2024-04-01 04:45:24 +0000",
       "minecraft:creeper": "2024-04-01 05:28:43 +0000",
@@ -3174,7 +3211,8 @@
       "neapolitan:plantain_spider": "2024-04-04 10:49:34 +0000",
       "minecraft:zombie": "2024-04-01 03:58:18 +0000",
       "minecraft:drowned": "2024-04-04 07:12:18 +0000",
-      "minecraft:zombie_villager": "2024-04-04 07:04:17 +0000"
+      "minecraft:zombie_villager": "2024-04-04 07:04:17 +0000",
+      "savage_and_ravage:skeleton_villager": "2024-04-05 03:52:35 +0000"
     },
     "done": false
   },
@@ -3223,6 +3261,12 @@
   "windswept:recipes/building_blocks/snow_bricks": {
     "criteria": {
       "has_snow_block": "2024-04-01 06:17:09 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/wild_berry_bowl": {
+    "criteria": {
+      "has_wild_berries": "2024-04-05 04:26:03 +0000"
     },
     "done": true
   },
@@ -3409,6 +3453,12 @@
   "incubation:recipes/decorations/chicken_egg_crate": {
     "criteria": {
       "has_egg": "2024-04-01 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/roasted_chestnuts_from_smoking": {
+    "criteria": {
+      "has_chestnuts": "2024-04-05 03:56:38 +0000"
     },
     "done": true
   },
@@ -4264,6 +4314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-04-05 03:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-04-01 14:28:59 +0000"
@@ -4939,6 +4995,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-04-01 06:39:20 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/wild_berry_juice": {
+    "criteria": {
+      "has_wild_berries": "2024-04-05 04:26:03 +0000"
     },
     "done": true
   },
@@ -5681,6 +5743,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-04-04 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/roasted_chestnuts": {
+    "criteria": {
+      "has_chestnuts": "2024-04-05 03:56:38 +0000"
     },
     "done": true
   },
@@ -6953,6 +7021,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/blue_ice_from_blue_ice_bricks_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2024-04-05 03:47:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/bamboo_table": {
     "criteria": {
       "has_bamboo": "2024-04-01 07:33:36 +0000"
@@ -7377,6 +7451,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/blue_ice_bricks": {
+    "criteria": {
+      "has_blue_ice": "2024-04-05 03:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-04-02 08:56:45 +0000"
@@ -7554,6 +7634,12 @@
   "vinery:straw_hat": {
     "criteria": {
       "has_wheat": "2024-04-01 04:24:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_helmet": {
+    "criteria": {
+      "froststalker_helmet": "2024-04-05 03:48:58 +0000"
     },
     "done": true
   },
@@ -8009,6 +8095,12 @@
     },
     "done": true
   },
+  "windswept:recipes/building_blocks/packed_ice_from_packed_ice_bricks_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2024-04-05 03:04:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/calcite_plate_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
@@ -8210,6 +8302,12 @@
   "twigs:recipes/calcite/calcite_slab": {
     "criteria": {
       "has_item": "2024-04-01 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-04-05 03:47:35 +0000"
     },
     "done": true
   },
@@ -8491,6 +8589,7 @@
       "minecraft:sparse_jungle": "2024-04-04 10:49:04 +0000",
       "minecraft:river": "2024-04-01 07:20:53 +0000",
       "minecraft:stony_shore": "2024-04-04 07:33:45 +0000",
+      "minecraft:snowy_plains": "2024-04-05 04:35:51 +0000",
       "minecraft:dripstone_caves": "2024-04-01 14:36:59 +0000",
       "minecraft:snowy_taiga": "2024-04-03 06:46:16 +0000",
       "minecraft:grove": "2024-04-01 07:13:38 +0000",
@@ -8499,10 +8598,13 @@
       "minecraft:cold_ocean": "2024-04-05 02:28:00 +0000",
       "environmental:blossom_valleys": "2024-04-01 07:33:31 +0000",
       "minecraft:forest": "2024-04-01 07:32:15 +0000",
+      "minecraft:deep_cold_ocean": "2024-04-05 04:41:08 +0000",
       "minecraft:frozen_ocean": "2024-04-03 06:49:00 +0000",
       "minecraft:windswept_forest": "2024-04-04 08:28:12 +0000",
       "minecraft:ocean": "2024-04-02 05:36:39 +0000",
       "minecraft:jungle": "2024-04-04 10:25:40 +0000",
+      "minecraft:snowy_beach": "2024-04-05 04:30:59 +0000",
+      "minecraft:frozen_peaks": "2024-04-05 03:43:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-04-01 07:14:56 +0000",
       "minecraft:deep_dark": "2024-04-01 14:37:46 +0000",
       "minecraft:meadow": "2024-04-01 04:19:33 +0000",
@@ -8754,6 +8856,12 @@
     },
     "done": true
   },
+  "windswept:recipes/food/wild_berry_cookie": {
+    "criteria": {
+      "has_wild_berries": "2024-04-05 04:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-04-02 03:12:16 +0000"
@@ -8862,6 +8970,12 @@
     },
     "done": true
   },
+  "windswept:recipes/decorations/wild_berry_basket": {
+    "criteria": {
+      "has_berries": "2024-04-05 04:26:03 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
@@ -8889,6 +9003,12 @@
   "aether_redux:recipes/transportation/blightwillow_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-04 04:42:08 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/packed_ice_bricks": {
+    "criteria": {
+      "has_packed_ice": "2024-04-05 03:04:50 +0000"
     },
     "done": true
   },
@@ -9821,6 +9941,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/chestnut_planks": {
+    "criteria": {
+      "has_logs": "2024-04-05 03:56:38 +0000"
     },
     "done": true
   },
