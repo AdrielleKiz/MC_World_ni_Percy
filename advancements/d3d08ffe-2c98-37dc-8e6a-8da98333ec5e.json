@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-04-05 15:16:36 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/oak_leaves": {
     "criteria": {
       "has_copper_block": "2024-04-01 07:48:50 +0000"
@@ -1097,6 +1103,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-04-05 15:33:24 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-04-01 07:36:10 +0000"
@@ -1251,6 +1263,12 @@
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-04-03 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-04-05 15:16:36 +0000"
     },
     "done": true
   },
@@ -5781,6 +5799,12 @@
   "environmental:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-01 12:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-04-05 15:16:36 +0000"
     },
     "done": true
   },
