@@ -1,0 +1,17 @@
+{
+	id: "b03bb913-0c7a-3f9a-884f-568459184b96"
+	type: "player"
+	player_name: "JCO"
+	ranks: {
+		b03bb913-0c7a-3f9a-884f-568459184b96: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JCO"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F0FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

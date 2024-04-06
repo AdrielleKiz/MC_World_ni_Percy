@@ -1266,6 +1266,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-04-06 11:00:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-04-03 03:35:14 +0000"
@@ -3493,7 +3499,8 @@
       "minecraft:endermite": "2024-04-05 02:09:01 +0000",
       "minecraft:vex": "2024-04-02 10:19:20 +0000",
       "minecraft:zombie": "2024-04-01 03:55:43 +0000",
-      "minecraft:zombie_villager": "2024-04-04 04:51:06 +0000"
+      "minecraft:zombie_villager": "2024-04-04 04:51:06 +0000",
+      "savage_and_ravage:skeleton_villager": "2024-04-06 07:39:54 +0000"
     },
     "done": false
   },
@@ -4442,6 +4449,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-04-06 11:28:05 +0000"
     },
     "done": true
   },
@@ -5802,6 +5815,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-04-06 11:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
@@ -6348,6 +6367,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-04-06 11:28:06 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-01 12:04:02 +0000"
@@ -6537,6 +6562,12 @@
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2024-04-01 06:27:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-06 08:11:14 +0000"
     },
     "done": true
   },
@@ -6922,6 +6953,12 @@
   "woodworks:recipes/redstone/warped_button_from_warped_planks_sawing": {
     "criteria": {
       "has_warped_planks": "2024-04-05 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2024-04-06 07:44:59 +0000"
     },
     "done": true
   },
@@ -7485,6 +7522,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-06 08:11:14 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2024-04-01 07:36:10 +0000"
@@ -7569,6 +7612,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2024-04-06 08:11:14 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
       "in_water": "2024-04-01 03:51:51 +0000"
@@ -7590,6 +7639,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-02 05:18:35 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-06 08:11:14 +0000"
     },
     "done": true
   },
@@ -7861,6 +7916,7 @@
     "criteria": {
       "byg:coconino_meadow": "2024-04-01 03:50:24 +0000",
       "byg:allium_fields": "2024-04-01 11:37:39 +0000",
+      "byg:viscal_isles": "2024-04-06 12:57:03 +0000",
       "byg:sythian_torrids": "2024-04-01 09:25:40 +0000",
       "byg:temperate_grove": "2024-04-01 03:44:54 +0000",
       "byg:black_forest": "2024-04-01 12:28:36 +0000",
@@ -8050,6 +8106,12 @@
       "previous_progression": "2024-04-01 15:23:16 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-04-06 08:11:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
@@ -9901,6 +9963,7 @@
       "rotten_flesh": "2024-04-01 04:49:07 +0000",
       "abnormals_delight:pumpkin_slice": "2024-04-01 06:17:35 +0000",
       "environmental:cooked_venison": "2024-04-01 08:17:08 +0000",
+      "abnormals_delight:pasta_with_meatballs": "2024-04-06 08:11:14 +0000",
       "buzzier_bees:honey_bread": "2024-04-01 04:30:38 +0000",
       "carrot": "2024-04-01 09:20:55 +0000"
     },
@@ -10047,6 +10110,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-04-06 11:28:59 +0000"
     },
     "done": true
   },

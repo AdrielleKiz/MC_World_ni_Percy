@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b03bb9130c7a3f9a884f568459184b96"
+	name: "JCO"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
