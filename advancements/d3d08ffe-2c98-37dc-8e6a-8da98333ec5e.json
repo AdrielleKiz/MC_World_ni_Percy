@@ -757,7 +757,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_crimson": "2024-04-02 05:16:48 +0000"
+      "in_village_crimson": "2024-04-02 05:16:48 +0000",
+      "in_village_warped": "2024-04-07 05:22:15 +0000"
     },
     "done": false
   },
@@ -1322,7 +1323,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-04-04 06:30:10 +0000"
+      "minecraft:nether_wastes": "2024-04-04 06:30:10 +0000",
+      "minecraft:warped_forest": "2024-04-07 05:21:31 +0000"
     },
     "done": false
   },
@@ -4246,6 +4248,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-04-04 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-04-07 05:21:38 +0000"
     },
     "done": true
   },
@@ -11089,6 +11097,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-04-03 07:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-04-07 05:21:50 +0000"
     },
     "done": true
   },
