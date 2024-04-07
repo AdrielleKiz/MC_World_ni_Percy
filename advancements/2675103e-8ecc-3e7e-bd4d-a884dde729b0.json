@@ -9206,6 +9206,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion": {
+    "criteria": {
+      "has_onion_crate": "2024-04-07 02:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2024-04-01 04:28:12 +0000"
