@@ -4809,6 +4809,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-04-07 11:24:28 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2024-04-01 04:09:26 +0000"
