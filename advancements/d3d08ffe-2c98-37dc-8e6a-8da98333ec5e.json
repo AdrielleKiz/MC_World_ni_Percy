@@ -11016,6 +11016,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2024-04-07 05:29:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-04-01 05:32:36 +0000"
