@@ -1376,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-04-07 06:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-04-01 03:46:44 +0000"
@@ -4206,6 +4212,12 @@
   "deeperdarker:recipes/deeperdarker/soul_elytra": {
     "criteria": {
       "has_elytra": "2024-04-03 08:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-04-07 06:19:42 +0000"
     },
     "done": true
   },
@@ -9627,6 +9639,12 @@
   "environmental:recipes/transportation/wisteria_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-01 12:04:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-07 06:19:42 +0000"
     },
     "done": true
   },
