@@ -1177,6 +1177,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/matcha_latte": {
+    "criteria": {
+      "has_matcha": "2024-04-07 00:26:39 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-04-01 05:15:06 +0000"
@@ -3854,6 +3860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-07 00:28:04 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/ebony_fence_gate": {
     "criteria": {
       "has_planks": "2024-04-04 03:31:42 +0000"
@@ -4013,6 +4025,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-02 07:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-07 00:28:04 +0000"
     },
     "done": true
   },
@@ -7327,6 +7345,12 @@
   "galosphere:recipes/galosphere/lumiere_bricks_from_lumiere_block_stonecutting": {
     "criteria": {
       "has_lumiere_block": "2024-04-01 15:37:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-07 00:28:04 +0000"
     },
     "done": true
   },
