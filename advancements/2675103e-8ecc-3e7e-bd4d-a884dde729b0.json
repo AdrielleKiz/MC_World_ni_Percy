@@ -6691,6 +6691,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/emerald_knife": {
+    "criteria": {
+      "has_emerald": "2024-04-07 00:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
@@ -9180,6 +9186,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-04-04 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/berry_matcha_latte_neapolitan": {
+    "criteria": {
+      "has_the_recipe": "2024-04-07 00:32:01 +0000"
     },
     "done": true
   },
