@@ -7590,7 +7590,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2024-04-06 13:46:29 +0000",
-      "pasta_with_meatballs": "2024-04-05 02:05:29 +0000"
+      "pasta_with_meatballs": "2024-04-05 02:05:29 +0000",
+      "pasta_with_mutton_chop": "2024-04-07 02:38:32 +0000"
     },
     "done": false
   },
@@ -9832,6 +9833,7 @@
       "cooked_porkchop": "2024-04-01 04:30:36 +0000",
       "abnormals_delight:bacon_sandwich": "2024-04-04 05:27:26 +0000",
       "cooked_beef": "2024-04-01 07:25:20 +0000",
+      "abnormals_delight:pasta_with_mutton_chop": "2024-04-07 02:38:32 +0000",
       "cooked_chicken": "2024-04-01 04:52:18 +0000",
       "cooked_mutton": "2024-04-01 14:30:57 +0000",
       "apple": "2024-04-01 07:39:26 +0000",
