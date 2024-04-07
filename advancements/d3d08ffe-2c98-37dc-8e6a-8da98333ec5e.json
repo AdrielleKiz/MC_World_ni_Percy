@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-04-07 04:34:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-02 05:18:35 +0000"
@@ -4182,6 +4188,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bone": "2024-04-07 04:29:08 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-04-01 03:51:50 +0000"
@@ -4899,6 +4911,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-04-01 03:51:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-04-07 04:34:35 +0000"
     },
     "done": true
   },
@@ -5854,6 +5872,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-04-07 04:34:35 +0000"
     },
     "done": true
   },
@@ -7070,6 +7094,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-04-07 04:29:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:09:29 +0000"
@@ -8020,6 +8050,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-04-02 05:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-04-07 04:29:11 +0000"
     },
     "done": true
   },
@@ -10191,6 +10227,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-04-07 04:35:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-04-01 07:35:22 +0000"
@@ -10206,6 +10248,12 @@
   "stoneworks:recipes/stoneworks.main/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-04-01 09:22:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2024-04-07 04:34:35 +0000"
     },
     "done": true
   },
@@ -10326,6 +10374,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_smoker": "2024-04-01 03:53:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_planter_box": {
+    "criteria": {
+      "has_slab": "2024-04-07 04:34:35 +0000"
     },
     "done": true
   },

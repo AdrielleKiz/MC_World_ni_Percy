@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/skyris_banister": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-04-01 04:06:25 +0000"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/byg/skyris_table": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
@@ -984,6 +996,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/skyris_shelf": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:09:14 +0000"
@@ -1053,6 +1071,12 @@
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2024-04-01 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/byg/skyris_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -1252,6 +1276,12 @@
   "stoneworks:recipes/stoneworks.main/stone_paver_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-07 01:10:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/skyris_beam": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -1990,6 +2020,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/skyris_support": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "vinery:white_grape_crate": {
     "criteria": {
       "has_white_grape": "2024-04-02 09:56:57 +0000"
@@ -2173,6 +2209,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-04-02 08:56:45 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/skyris_table": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -2491,6 +2533,12 @@
   "galosphere:recipes/galosphere/allurite_lamp": {
     "criteria": {
       "has_allurite_shard": "2024-04-04 05:59:20 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_sign": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -3114,6 +3162,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/skyris_bench": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/decorations/brown_mushroom_basket": {
     "criteria": {
       "has_brown_mushroom": "2024-04-01 05:18:11 +0000"
@@ -3261,6 +3315,12 @@
   "everycomp:recipes/everycomp/bp/byg/ebony_backpack_shelf": {
     "criteria": {
       "has_planks": "2024-04-04 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_boat": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -3611,6 +3671,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-04-01 07:17:06 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -4154,6 +4220,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_slab": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/bone_knife": {
     "criteria": {
       "has_bone": "2024-04-07 00:16:16 +0000"
@@ -4517,6 +4589,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-04 04:42:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/byg/hollow_skyris_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -5284,6 +5362,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-04-01 04:11:16 +0000"
@@ -5669,6 +5753,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-02 07:02:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/faf/byg/skyris_beehive": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -6350,6 +6440,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/skyris_chair": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-04 04:42:08 +0000"
@@ -6359,6 +6455,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-04-04 07:45:52 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_door": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -6659,6 +6761,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-01 06:27:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/skyris_planter_box": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -7233,6 +7341,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2024-04-02 07:02:02 +0000"
@@ -7397,6 +7511,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/byg/skyris_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/decorations/kiln": {
     "criteria": {
       "has_cobblestone": "2024-04-01 03:47:08 +0000"
@@ -7472,6 +7592,12 @@
   "environmental:recipes/building_blocks/cherry_vertical_slab_revert": {
     "criteria": {
       "has_cherry_vertical_slab": "2024-04-07 04:25:43 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -7682,6 +7808,12 @@
   "stoneworks:recipes/stoneworks.main/deepslate_plate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-04-04 03:46:01 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -8020,6 +8152,12 @@
   "backpacked:recipes/backpacked/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/skyris_seat": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -8835,6 +8973,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:09:14 +0000"
@@ -8962,6 +9106,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_fence": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-02 02:48:11 +0000"
@@ -8971,6 +9121,12 @@
   "aether:recipes/combat/netherite_chestplate_repairing": {
     "criteria": {
       "has_netherite_chestplate": "2024-04-04 11:33:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/skyris_palisade": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -9049,6 +9205,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2024-04-03 06:48:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/skyris_shutter": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -9598,6 +9760,12 @@
   "stoneworks:recipes/stoneworks.main/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-04-01 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_button": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
@@ -10549,6 +10717,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2024-04-04 05:05:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/skyris_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:37:23 +0000"
     },
     "done": true
   },
