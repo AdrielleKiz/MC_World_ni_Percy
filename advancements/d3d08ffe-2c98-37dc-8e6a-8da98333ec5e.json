@@ -8215,6 +8215,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-04-07 05:03:38 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2024-04-01 07:36:10 +0000"
