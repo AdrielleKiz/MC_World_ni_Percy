@@ -3932,6 +3932,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bone": "2024-04-07 00:16:16 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-04-01 05:37:21 +0000"
@@ -10060,6 +10066,12 @@
   "twilightdelight:recipes/frozen/cutting/ice_bow": {
     "criteria": {
       "has_bow": "2024-04-01 04:43:02 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/cooking/green_tea_leaves": {
+    "criteria": {
+      "has_green_tea_leaves": "2024-04-07 00:14:37 +0000"
     },
     "done": true
   },
