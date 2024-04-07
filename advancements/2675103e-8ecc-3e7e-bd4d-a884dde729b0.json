@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/environmental/cherry_seat": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-04-01 03:45:12 +0000"
@@ -518,6 +524,12 @@
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/environmental/cherry_table": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
     },
     "done": true
   },
@@ -837,6 +849,12 @@
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-04-01 03:45:13 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -1924,6 +1942,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/cherry_bench": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-04-03 11:23:48 +0000"
@@ -2164,6 +2188,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-07 01:10:57 +0000"
@@ -2299,6 +2329,12 @@
   "stoneworks:recipes/stoneworks.main/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-02 07:02:02 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -2749,6 +2785,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-02 02:48:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/environmental/cherry_palisade": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -4688,6 +4730,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/cherry_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-02 02:48:11 +0000"
@@ -4751,6 +4799,18 @@
   "immersive_weathering:recipes/dark_oak_leaves": {
     "criteria": {
       "has_copper_block": "2024-04-06 12:51:21 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/environmental/cherry_support": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -4843,6 +4903,12 @@
   "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-04-01 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/environmental/cherry_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
     },
     "done": true
   },
@@ -5684,6 +5750,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/cherry_planter_box": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/fd/byg/ebony_cabinet": {
     "criteria": {
       "has_planks": "2024-04-04 03:31:42 +0000"
@@ -5813,6 +5885,12 @@
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-04 04:42:08 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
     },
     "done": true
   },
@@ -6440,6 +6518,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/cherry_chair": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-04-01 05:14:22 +0000"
@@ -6509,6 +6593,12 @@
   "farmersdelight:recipes/farmersdelight/sweet_berry_cheesecake": {
     "criteria": {
       "has_pie_crust": "2024-04-06 13:05:49 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/cherry_vertical_slab": {
+    "criteria": {
+      "has_cherry_planks": "2024-04-07 04:19:50 +0000"
     },
     "done": true
   },
@@ -6803,6 +6893,12 @@
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-04-01 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -7125,6 +7221,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/cherry_boards": {
+    "criteria": {
+      "has_cherry_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
@@ -7364,6 +7466,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/cherry_vertical_slab_revert": {
+    "criteria": {
+      "has_cherry_vertical_slab": "2024-04-07 04:25:43 +0000"
     },
     "done": true
   },
@@ -7648,6 +7756,12 @@
   "twigs:recipes/tables/bamboo_table": {
     "criteria": {
       "has_bamboo": "2024-04-01 07:33:36 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
     },
     "done": true
   },
@@ -8270,6 +8384,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/environmental/cherry_banister": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-04-01 14:28:55 +0000"
@@ -8417,6 +8537,12 @@
   "stoneworks:recipes/stoneworks.main/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-04-01 04:07:55 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -9034,6 +9160,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/environmental/cherry_shutter": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2024-04-01 14:27:40 +0000"
@@ -9244,6 +9376,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/environmental/cherry_beam": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-04 03:41:09 +0000"
@@ -9370,6 +9508,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-04-01 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
@@ -10066,6 +10210,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_painting": "2024-04-01 15:23:08 +0000"
@@ -10492,6 +10642,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/environmental/hollow_cherry_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_trophy": "2024-04-02 03:02:59 +0000"
@@ -10525,6 +10681,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2024-04-02 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/environmental/cherry_table": {
+    "criteria": {
+      "has_planks": "2024-04-07 04:19:51 +0000"
     },
     "done": true
   },
