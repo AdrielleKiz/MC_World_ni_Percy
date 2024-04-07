@@ -9174,7 +9174,8 @@
   },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
-      "beehive": "2024-04-02 05:52:59 +0000"
+      "beehive": "2024-04-02 05:52:59 +0000",
+      "birch_beehive": "2024-04-07 06:17:42 +0000"
     },
     "done": false
   },
