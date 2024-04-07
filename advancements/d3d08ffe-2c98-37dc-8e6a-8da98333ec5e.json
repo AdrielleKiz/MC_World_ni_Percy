@@ -10788,6 +10788,12 @@
     },
     "done": true
   },
+  "delightful:recipes/cooking/green_tea_leaves": {
+    "criteria": {
+      "has_green_tea_leaves": "2024-04-07 10:55:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2024-04-03 03:42:47 +0000"
