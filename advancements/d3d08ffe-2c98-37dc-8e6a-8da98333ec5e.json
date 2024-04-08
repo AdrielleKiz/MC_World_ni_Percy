@@ -816,6 +816,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/aurora_cake": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/tab.twilightdelight/cooking/torchberry_juice": {
     "criteria": {
       "has_torchberries": "2024-04-08 02:27:02 +0000"
@@ -1029,6 +1035,12 @@
   "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_left": {
     "criteria": {
       "has_item": "2024-04-01 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/aurora_milkshake_alt": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
     },
     "done": true
   },
@@ -1481,6 +1493,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-04-01 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2024-04-08 15:48:30 +0000"
     },
     "done": true
   },
@@ -4817,6 +4835,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/rainbow_ice_cream": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_paver_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-01 04:12:37 +0000"
@@ -5048,6 +5072,12 @@
   "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-04-01 11:51:12 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/aurora_ice_cream_block": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
     },
     "done": true
   },
@@ -7917,6 +7947,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/aurora_milkshake": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
@@ -9432,6 +9468,12 @@
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2024-04-01 04:17:05 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/aurora_ice_cream": {
+    "criteria": {
+      "has_aurora_block": "2024-04-08 15:48:30 +0000"
     },
     "done": true
   },
