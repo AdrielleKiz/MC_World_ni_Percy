@@ -1014,6 +1014,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-04-08 00:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-04-01 04:11:49 +0000"
