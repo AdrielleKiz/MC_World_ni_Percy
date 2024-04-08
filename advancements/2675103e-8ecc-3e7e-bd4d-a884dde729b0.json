@@ -2224,6 +2224,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-04-01 04:21:33 +0000"
@@ -4298,6 +4304,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_reactor": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-02 02:48:10 +0000"
@@ -4388,6 +4400,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2024-04-01 04:02:47 +0000"
@@ -4439,6 +4457,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-04-01 13:33:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
     },
     "done": true
   },
@@ -4541,6 +4565,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-04-01 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-08 00:44:31 +0000"
     },
     "done": true
   },
@@ -4971,6 +5001,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:07:48 +0000"
@@ -5157,6 +5193,14 @@
       "has_oxidized_cut_copper_stairs": "2024-04-03 00:38:04 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "trophy": "2024-04-08 00:44:31 +0000",
+      "ghast": "2024-04-08 00:42:38 +0000",
+      "was_in_fight": "2024-04-08 00:42:38 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/throw_trident": {
     "criteria": {
@@ -6644,6 +6688,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-07 01:10:57 +0000"
@@ -7398,6 +7448,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_slab": {
     "criteria": {
       "has_item": "2024-04-01 15:00:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
     },
     "done": true
   },
@@ -8895,6 +8951,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
+    },
+    "done": true
+  },
   "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
       "thief_hood": "2024-04-02 04:37:10 +0000"
@@ -9070,6 +9132,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:09:14 +0000"
@@ -9242,6 +9310,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-04-06 12:37:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-04-08 00:42:52 +0000"
     },
     "done": true
   },
@@ -10406,6 +10480,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_builder": {
+    "criteria": {
+      "has_item": "2024-04-08 00:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-01 04:02:32 +0000"
@@ -11165,6 +11245,12 @@
   "farmersdelight:recipes/farmersdelight/tomato": {
     "criteria": {
       "has_tomato_crate": "2024-04-04 06:51:16 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/tear_drink": {
+    "criteria": {
+      "has_fiery_tears": "2024-04-08 00:44:28 +0000"
     },
     "done": true
   },
