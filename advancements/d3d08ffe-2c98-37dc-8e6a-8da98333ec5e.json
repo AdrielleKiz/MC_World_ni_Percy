@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-01 04:02:37 +0000"
@@ -876,6 +882,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_tile_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-04-01 04:09:30 +0000"
@@ -1291,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_chest": {
     "criteria": {
       "has_lots_of_items": "2024-04-01 03:46:18 +0000"
@@ -1547,6 +1571,12 @@
   "stoneworks:recipes/stoneworks.main/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-04-01 12:44:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_paver_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -1810,6 +1840,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_log": "2024-04-08 15:39:39 +0000",
       "twilight_oak_sapling": "2024-04-01 15:07:30 +0000",
       "liveroot": "2024-04-08 02:27:15 +0000"
     },
@@ -1854,6 +1885,12 @@
   "woodworks:recipes/decorations/oak_ladder": {
     "criteria": {
       "has_stick": "2024-04-01 03:45:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -2022,6 +2059,12 @@
   "upgradednetherite:recipes/essences/ender_essence": {
     "criteria": {
       "has_ender_pearl": "2024-04-01 04:46:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_plate_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -2205,6 +2248,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_paver_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-04-01 07:36:10 +0000"
@@ -2226,6 +2275,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-04-01 07:38:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -2307,6 +2362,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-01 09:33:09 +0000"
@@ -2377,6 +2438,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_plates_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -2830,6 +2897,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/end_stone_pavers_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-04-03 07:43:45 +0000"
@@ -2996,6 +3069,12 @@
   "twilightforest:recipes/twilightforest/wood/crimson_banister": {
     "criteria": {
       "has_item": "2024-04-03 08:25:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_tile_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -3167,6 +3246,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
@@ -3176,6 +3261,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -3473,6 +3564,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-04-08 15:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-04-01 06:27:09 +0000"
@@ -3670,6 +3767,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/nagastone/mossy_nagastone_stairs_right": {
     "criteria": {
       "has_item": "2024-04-01 15:11:39 +0000"
@@ -3703,6 +3806,12 @@
   "windswept:recipes/building_blocks/snow_bricks": {
     "criteria": {
       "has_snow_block": "2024-04-03 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -3931,6 +4040,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-01 12:04:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -4378,6 +4493,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
     "criteria": {
       "has_item": "2024-04-07 05:21:38 +0000"
@@ -4387,6 +4508,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-04-01 04:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -4522,6 +4649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-04-08 15:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-04-01 03:51:50 +0000"
@@ -4531,6 +4664,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-04-01 10:54:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-04-08 15:39:39 +0000"
     },
     "done": true
   },
@@ -4549,6 +4688,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-04-01 04:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -4618,6 +4763,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_plate_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-04-01 10:54:30 +0000"
@@ -4633,6 +4784,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-08 15:29:03 +0000"
     },
     "done": true
   },
@@ -4831,6 +4988,12 @@
   "aether:recipes/tools/netherite_axe_repairing": {
     "criteria": {
       "has_netherite_axe": "2024-04-03 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -5262,6 +5425,12 @@
       "has_wool": "2024-04-01 15:08:51 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "trophy": "2024-04-08 15:29:03 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
@@ -5921,6 +6090,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/ice_bricks": {
+    "criteria": {
+      "has_ice": "2024-04-08 15:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-04-01 03:51:50 +0000"
@@ -5936,6 +6111,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-04-01 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-04-08 15:23:26 +0000"
     },
     "done": true
   },
@@ -6233,6 +6414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2024-04-01 07:35:46 +0000"
@@ -6296,6 +6483,12 @@
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -6365,6 +6558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-04-03 03:32:12 +0000"
@@ -6410,6 +6609,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-04-01 09:56:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -6539,6 +6744,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_shingle_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_paver_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/sawmill": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:35 +0000"
@@ -6587,6 +6804,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:41 +0000"
@@ -6596,6 +6819,12 @@
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2024-04-06 11:28:06 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/popped_chorus_fruit_from_baking": {
+    "criteria": {
+      "has_chorus_fruit": "2024-04-08 15:23:26 +0000"
     },
     "done": true
   },
@@ -6620,6 +6849,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -6764,6 +6999,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-04-03 08:10:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -6923,9 +7164,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-04-01 03:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -7404,6 +7657,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_shingle_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_lamp": {
     "criteria": {
       "has_wool": "2024-04-01 06:27:02 +0000"
@@ -7724,6 +7983,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-04-01 03:47:31 +0000"
@@ -7906,6 +8171,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2024-04-08 15:42:04 +0000",
       "pasta_with_meatballs": "2024-04-06 08:11:14 +0000"
     },
     "done": false
@@ -7925,6 +8191,12 @@
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-04-01 03:45:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -7967,6 +8239,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2024-04-01 07:36:10 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/smooth_quartz_from_baking": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -8096,6 +8374,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_plate_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-04-01 06:27:02 +0000"
@@ -8195,6 +8479,12 @@
   "stoneworks:recipes/stoneworks.main/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-01 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -8339,6 +8629,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:27:56 +0000"
@@ -8415,6 +8711,12 @@
     "criteria": {
       "previous_progression": "2024-04-01 15:23:16 +0000",
       "yeti": "2024-04-08 12:28:17 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/ice_sheet": {
+    "criteria": {
+      "has_ice": "2024-04-08 15:45:16 +0000"
     },
     "done": true
   },
@@ -8757,6 +9059,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-04-02 05:18:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -9127,6 +9435,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2024-04-08 15:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-04-01 03:50:34 +0000"
@@ -9191,6 +9505,18 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-04-03 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_tile_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -9440,6 +9766,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-04-08 15:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-04-01 15:32:53 +0000"
@@ -9599,6 +9937,12 @@
   "clayworks:recipes/building_blocks/black_terracotta_vertical_slab_from_black_terracotta_stonecutting": {
     "criteria": {
       "has_black_terracotta": "2024-04-04 06:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -10048,9 +10392,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_pavers_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-04-01 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -10117,6 +10473,12 @@
   "another_furniture:recipes/warped_table": {
     "criteria": {
       "has_planks": "2024-04-05 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/quartz_shingles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
     },
     "done": true
   },
@@ -10300,6 +10662,7 @@
       "environmental:cooked_venison": "2024-04-01 08:17:08 +0000",
       "abnormals_delight:pasta_with_meatballs": "2024-04-06 08:11:14 +0000",
       "buzzier_bees:honey_bread": "2024-04-01 04:30:38 +0000",
+      "abnormals_delight:shepherds_pie": "2024-04-08 15:42:04 +0000",
       "carrot": "2024-04-01 09:20:55 +0000"
     },
     "done": false
@@ -10736,6 +11099,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/quartz_shingle_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-08 15:21:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_shingle_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-01 09:33:09 +0000"
@@ -10751,6 +11120,12 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2024-04-01 11:45:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-04-08 15:41:13 +0000"
     },
     "done": true
   },
@@ -11489,6 +11864,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-04-02 05:23:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2024-04-08 15:41:01 +0000"
     },
     "done": true
   },
