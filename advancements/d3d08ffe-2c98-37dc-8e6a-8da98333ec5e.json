@@ -8648,6 +8648,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-08 16:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-04-01 04:49:59 +0000"
@@ -10432,6 +10438,12 @@
   "stoneworks:recipes/stoneworks.main/calcite_plates_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-04-01 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-08 16:11:04 +0000"
     },
     "done": true
   },
