@@ -2042,6 +2042,12 @@
     },
     "done": true
   },
+  "byg:husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2024-04-08 02:16:22 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-04-01 04:49:59 +0000"
@@ -7181,6 +7187,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/skyris_wood": {
+    "criteria": {
+      "has_log": "2024-04-08 02:16:20 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "has_eggs": "2024-04-01 09:00:22 +0000"
@@ -11013,6 +11025,12 @@
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2024-04-01 04:01:13 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_planks": {
+    "criteria": {
+      "has_logs": "2024-04-08 02:16:20 +0000"
     },
     "done": true
   },
