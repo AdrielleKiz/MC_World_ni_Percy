@@ -9709,6 +9709,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/stellium_knife": {
+    "criteria": {
+      "has_stellium": "2024-04-08 12:00:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-04-01 03:55:40 +0000"
