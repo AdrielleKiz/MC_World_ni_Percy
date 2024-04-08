@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/twilightforest/maze_wafer": {
+    "criteria": {
+      "has_liveroot": "2024-04-08 02:27:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-01 09:33:08 +0000"
@@ -749,6 +755,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-04-01 03:45:41 +0000"
@@ -771,6 +783,12 @@
   "twilightforest:recipes/twilightforest/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2024-04-01 15:08:17 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -1131,6 +1149,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-04-03 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_cake": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -1726,7 +1750,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "twilight_oak_sapling": "2024-04-01 15:07:30 +0000"
+      "twilight_oak_sapling": "2024-04-01 15:07:30 +0000",
+      "liveroot": "2024-04-08 02:27:15 +0000"
     },
     "done": false
   },
@@ -2310,6 +2335,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-04-01 06:27:02 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -3259,6 +3290,12 @@
   "stoneworks:recipes/stoneworks.main/deepslate_shingle_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-04-01 12:44:28 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -4734,6 +4771,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-01 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/thousand_plant_stew": {
+    "criteria": {
+      "has_liveroot": "2024-04-08 02:27:15 +0000"
     },
     "done": true
   },
@@ -6532,6 +6575,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/nether_brick_from_baking": {
     "criteria": {
       "has_netherrack": "2024-04-01 09:22:25 +0000"
@@ -6604,6 +6653,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_milkshake_alt": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/tab.twilightdelight/meef_wrap": {
     "criteria": {
       "has_raw_meef": "2024-04-01 15:29:14 +0000"
@@ -6643,6 +6698,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-04-01 15:32:53 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/twilightforest/raw_ironwood": {
+    "criteria": {
+      "has_liveroot": "2024-04-08 02:27:15 +0000"
     },
     "done": true
   },
@@ -6733,6 +6794,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-04-01 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -6955,6 +7022,12 @@
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-04-01 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2024-04-08 02:27:15 +0000"
     },
     "done": true
   },
@@ -7241,6 +7314,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-04-08 02:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-04-01 04:09:30 +0000"
@@ -7384,6 +7463,12 @@
   "stoneworks:recipes/stoneworks.main/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-02 05:18:35 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/cooking/phytochemical_juice": {
+    "criteria": {
+      "has_liveroot": "2024-04-08 02:27:15 +0000"
     },
     "done": true
   },
@@ -10164,6 +10249,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_milkshake": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-01 04:10:41 +0000"
@@ -10413,6 +10504,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-04-01 07:36:10 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/tab.twilightdelight/neapolitan/torchberry_ice_cream_block": {
+    "criteria": {
+      "has_torchberries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
@@ -10983,6 +11080,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-04-01 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-04-08 02:27:02 +0000"
     },
     "done": true
   },
