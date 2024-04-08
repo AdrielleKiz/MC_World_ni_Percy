@@ -1358,6 +1358,12 @@
     },
     "done": false
   },
+  "upgradednetherite:recipes/essences/phantom_essence": {
+    "criteria": {
+      "has_phantom_membrane": "2024-04-08 05:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-04-03 08:22:21 +0000"
@@ -4342,6 +4348,12 @@
     },
     "done": true
   },
+  "unusualend:ancient_wisdom": {
+    "criteria": {
+      "ancient_wisdom": "2024-04-08 05:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2024-04-02 06:04:26 +0000"
@@ -4561,6 +4573,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-04-01 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-04-08 05:04:18 +0000"
     },
     "done": true
   },
@@ -10882,6 +10900,12 @@
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-04-01 03:51:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2024-04-08 05:07:43 +0000"
     },
     "done": true
   },
